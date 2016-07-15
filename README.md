@@ -1,2 +1,1 @@
-# hello-world
-first program for practice
+HI this is for practice
